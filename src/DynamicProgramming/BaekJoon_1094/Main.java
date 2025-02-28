@@ -1,4 +1,4 @@
-package Math.BaekJoon_1094;
+package DynamicProgramming.BaekJoon_1094;
 
 import java.util.Scanner;
 import java.util.ArrayList;
